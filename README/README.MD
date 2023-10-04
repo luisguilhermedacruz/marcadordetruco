@@ -1,4 +1,4 @@
-<img style="width:200px" src="./asserts/logo_white_semfundo.png">
+<img style="width:350px" src="./asserts/logo_white_semfundo.png">
 
 # Marcador&Sorteador de Truco ♣️ ♥️ ♠️ ♦️
 
