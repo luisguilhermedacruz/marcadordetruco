@@ -1,4 +1,4 @@
-<img style="width:350px" src="./asserts/logo_white_semfundo.png">
+<img style="width:350px" src="./assets/logo_white_semfundo.png">
 
 # Marcador&Sorteador de Truco ♣️ ♥️ ♠️ ♦️
 
@@ -30,23 +30,23 @@ Um app feito para melhorar sua experiência na jogatina com os amigos 😁
 
 - Tela inicial (Inserir nome dos jogadores / Escolher Duplas ou Trios)
 
-![Tela Inicial](./asserts/tela_inicial.png)
+![Tela Inicial](./assets/tela_inicial.png)
 
 - Placar Duplas
 
-![Placar Duplas](./asserts/placar1.png)
+![Placar Duplas](./assets/placar1.png)
 
-- Placar Duplas
+- Placar Trios
 
-![Placar Trios](./asserts/placar2.png)
+![Placar Trios](./assets/placar2.png)
 
 - Placar Alterado
 
-![Placar Trios](./asserts/placar3.png)
+![Placar Trios](./assets/placar3.png)
 
 - Placar Final (12 pontos)
 
-![Placar Trios](./asserts/placarfinal.png)
+![Placar Trios](./assets/placarfinal.png)
 
 ## [Demostração](#demostração)
 
@@ -64,4 +64,4 @@ Um app feito para melhorar sua experiência na jogatina com os amigos 😁
 - Estudante de Análise e Desenvolvimento de Sistemas - FAM
 - [Linkedin](https://www.linkedin.com/in/luisguilhermedacruz/)
 
-<img style="width:300px" src="./asserts/perfil.png">
+<img style="width:300px" src="./assets/perfil.png">
