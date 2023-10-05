@@ -50,7 +50,7 @@ Um app feito para melhorar sua experiência na jogatina com os amigos 😁
 
 ## [Demostração](#demostração)
 
-- [Sorteador&Marcador de Truco](http://google.com)
+- [Sorteador&Marcador de Truco](https://marcadordetruco.vercel.app/)
 
 ## [Próximos Passos](#proximos-passos)
 
